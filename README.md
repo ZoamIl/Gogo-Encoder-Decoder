@@ -4,4 +4,5 @@ An open-source Encoder/Decoder that's straightforward and simple.
 
 # Currently supported languages
 utf-8
+
 hexadecimal
