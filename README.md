@@ -6,3 +6,6 @@ An open-source Encoder/Decoder that's straightforward and simple.
 utf-8
 
 hexadecimal
+
+# Support server
+You can get support and chat from our server [here](https://discord.gg/uEYMkmbtTy)
