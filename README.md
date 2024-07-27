@@ -8,4 +8,4 @@ utf-8
 hexadecimal
 
 # Support server
-You can get support and chat from our server [here](https://discord.gg/uEYMkmbtTy)
+You can get support and chat from our server [here.](https://discord.gg/uEYMkmbtTy)
